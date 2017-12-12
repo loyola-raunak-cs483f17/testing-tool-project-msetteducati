@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0838E695-EDA2-42D8-BF00-A2ECC862C4ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Utilities/RecursiveMathTest.cs">
+    <Files>
+      <File FileName="Utilities/Program.cs" Line="8" Column="10" />
+      <File FileName="Utilities/SortingAlgorithms.cs" Line="96" Column="12" />
+      <File FileName="Utilities/RecursiveMath.cs" Line="65" Column="62" />
+      <File FileName="Utilities/RecursiveMathTest.cs" Line="17" Column="9" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Utilities" expanded="True">
+            <Node name="Utilities" expanded="True">
+              <Node name="Utilities" expanded="True">
+                <Node name="RecursiveMathTest" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Utilities PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
