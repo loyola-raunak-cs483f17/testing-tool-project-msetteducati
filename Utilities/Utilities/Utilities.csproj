@@ -21,6 +21,7 @@
     <WarningLevel>4</WarningLevel>
     <ExternalConsole>true</ExternalConsole>
     <PlatformTarget>x86</PlatformTarget>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
     <Optimize>true</Optimize>
@@ -51,6 +52,7 @@
     <Compile Include="SortingAlgorithms.cs" />
     <Compile Include="RecursiveMath.cs" />
     <Compile Include="RecursiveMathTest.cs" />
+    <Compile Include="SortingAlgorithmsTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

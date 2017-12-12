@@ -96,7 +96,7 @@ namespace Utilities
          */
         private static void MergingMethod(int[] numbers, int left, int mid, int right)
         {
-            int[] temp = new int[25]; // CHANGE?
+            int[] temp = new int[numbers.Length * 4]; 
             int left_end, num_elements, tmp_pos;
             left_end = (mid - 1);
             tmp_pos = left;
